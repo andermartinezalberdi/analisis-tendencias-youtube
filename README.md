@@ -20,7 +20,7 @@ El proyecto transforma datos agregados de tendencias en un **dashboard interacti
 
 El proyecto busca facilitar el análisis periódico de tendencias de contenido en YouTube y responder preguntas como:
 
-1. ¿Qué países concentran una mayor proporción de videos en tendencia?
+1. ¿Qué países concentran una mayor proporción del volumen de tendencias registrado?
 2. ¿Qué categorías tienen mayor presencia?
 3. ¿Cómo cambia la popularidad de las categorías entre diferentes mercados?
 4. ¿Qué patrones pueden resultar útiles para orientar decisiones de marketing y contenido?
@@ -39,7 +39,7 @@ El dashboard muestra diferencias relevantes tanto entre países como entre categ
 - Le siguen **Francia (22.18%)**, **Rusia (21.68%)** e **India (21.58%)**, con participaciones relativamente similares.
 - **Japón representa aproximadamente el 10.81%**, claramente por debajo del resto de mercados analizados.
 - **Entertainment** destaca como una de las categorías con mayor presencia en varios países.
-- India registra **32,924** videos en tendencia dentro de Entertainment, la combinación país-categoría más elevada observada en la visualización.
+- India acumula **32,924 apariciones de videos en tendencia** dentro de Entertainment, la combinación país-categoría más elevada observada en la visualización.
 - Rusia presenta un comportamiento diferente: **People & Blogs** alcanza 18,452 registros, superando a Entertainment en ese mercado.
 - Estados Unidos muestra además una presencia importante de **Music**, con 12,874 registros.
 
@@ -61,7 +61,7 @@ El dataset contiene **12,343 registros** y cinco variables:
 | `region` | País o región |
 | `trending_date` | Fecha en la que se registró la tendencia |
 | `category_title` | Categoría del contenido |
-| `videos_count` | Número de videos en tendencia |
+| `videos_count` | Conteo de apariciones de videos en tendencia |
 
 Los mercados incluidos en el análisis son:
 
@@ -87,7 +87,7 @@ El proyecto se desarrolló siguiendo un enfoque de Business Intelligence:
    - región;
    - categoría.
 3. Identificación de la métrica principal:
-   - número de videos en tendencia.
+   - conteo de apariciones de videos en tendencia.
 4. Conexión del dataset con Tableau.
 5. Creación de visualizaciones por región y categoría.
 6. Construcción de un dashboard interactivo.
@@ -136,13 +136,11 @@ La comparación entre categorías permite detectar diferencias importantes entre
 Algunos patrones destacados:
 
 - **Entertainment** presenta una presencia especialmente elevada en India, Estados Unidos, Francia y Japón.
-- India registra **32,924** videos en tendencia de Entertainment.
-- Estados Unidos alcanza **19,638** en Entertainment y **12,874** en Music.
-- Francia registra **19,020** en Entertainment.
-- Japón alcanza **11,734** en Entertainment.
-- Rusia muestra un patrón diferente, con **People & Blogs (18,452)** por encima de Entertainment (11,692).
-
-Esto evidencia que las categorías de mayor interés pueden variar considerablemente según el mercado.
+- India acumula **32,924 apariciones de videos en tendencia** en Entertainment.
+- Estados Unidos acumula **19,638 apariciones** en Entertainment y **12,874** en Music.
+- Francia acumula **19,020 apariciones** en Entertainment.
+- Japón acumula **11,734 apariciones** en Entertainment.
+- Rusia muestra un patrón diferente, con **18,452 apariciones** en People & Blogs, por encima de las **11,692** de Entertainment.
 
 ---
 
