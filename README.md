@@ -103,8 +103,7 @@ El proyecto se desarrolló siguiendo un enfoque de Business Intelligence:
 - **Tableau Public**
 - **Business Intelligence**
 - **Data Visualization**
-- **Análisis de marketing**
-- **CSV**
+- **Marketing Analytics**
 
 ---
 
