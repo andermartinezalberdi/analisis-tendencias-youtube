@@ -8,7 +8,7 @@ El proyecto transforma datos agregados de tendencias en un **dashboard interacti
 
 ## Dashboard interactivo
 
-➡️ [Ver visualizaciones en Tableau Public](https://public.tableau.com/app/profile/ander.martinez/vizzes)
+➡️ [Ver dashboard interactivo en Tableau Public](https://public.tableau.com/views/Libro1_17816548347860/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ➡️ [Ver dashboard completo en PDF](dashboard/dashboard_tendencias_youtube.pdf)
 
