@@ -17,5 +17,3 @@ El dataset contiene 12,343 registros y las siguientes variables:
 - `videos_count`: número de videos en tendencia para esa combinación de fecha, región y categoría.
 
 El archivo fue utilizado como fuente de datos para construir un dashboard de análisis de tendencias en Tableau.
-
-El dataset original no se redistribuye públicamente en este repositorio.
