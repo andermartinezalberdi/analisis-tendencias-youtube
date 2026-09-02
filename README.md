@@ -221,8 +221,7 @@ Como siguiente paso, el análisis podría ampliarse incorporando:
 ### Dashboard
 
 - [Dashboard completo en PDF](dashboard/dashboard_tendencias_youtube.pdf)
-- [Dashboard interactivo en Tableau Public](https://public.tableau.com/app/profile/ander.martinez/vizzes)
-
+- [Dashboard interactivo en Tableau Public](https://public.tableau.com/views/Libro1_17816548347860/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ### Visualizaciones adicionales
 
 También se incluyen exportaciones específicas del análisis por país y categoría dentro de la carpeta `dashboard/`.
