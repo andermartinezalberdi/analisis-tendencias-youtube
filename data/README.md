@@ -1,6 +1,8 @@
 # Datos
 
-El dataset utilizado en este proyecto contiene información agregada sobre videos en tendencia en YouTube por región, fecha y categoría.
+El dataset utilizado fue proporcionado originalmente como parte de un ejercicio de formación del programa de Data Analyst de TripleTen.
+
+El archivo original no se redistribuye públicamente en este repositorio.
 
 Archivo utilizado:
 
